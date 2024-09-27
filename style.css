@@ -223,8 +223,8 @@ nav ul li a:hover::after{
   border-radius:15px;
   display: block;
   display: flex;
-  margin-left: 220px;
-  margin-right: 180px;
+  margin-left: 200px;
+  margin-right: 150px;
   justify-content: space-between;
   margin-top: 50px;
   transition:transform 0.5s;
